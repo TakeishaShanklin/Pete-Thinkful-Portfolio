@@ -72,3 +72,7 @@ hr {
 a:hover {
   color: #f77f00;
 }
+
+footer {
+  text-align: center;
+}
